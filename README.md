@@ -22,7 +22,7 @@ This project is an AI-powered interview assistant that uses speech recognition, 
 1. Clone this repository
 2. Install required packages:
    ```
-   pip install pyaudio wave numpy openai whisper PyPDF2 requests playsound tiktoken python-dotenv
+   pip install -r requirements.txt
    ```
 3. Create a `.env` file in the project root and add your API keys:
    ```
